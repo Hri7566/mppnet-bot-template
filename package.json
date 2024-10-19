@@ -1,0 +1,17 @@
+{
+    "name": "mppnet-bot-template",
+    "version": "1.0.0",
+    "description": "A template for creating bots for MPP.net",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node ."
+    },
+    "keywords": [],
+    "author": "Hri7566 <hri7566@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "mpp-client-net": "^1.2.3"
+    }
+}
